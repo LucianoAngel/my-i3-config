@@ -12,3 +12,8 @@ Optional: EndearvourOs
 ## How to contribute with the project
 
 Clone and make a pull request
+
+
+## Results
+
+[WM Result](./i3.png)
