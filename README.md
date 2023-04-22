@@ -20,7 +20,6 @@ This repo contains the DotFiles of i3-wm, i3-gaps, and i3-blocks
 
 ## Requirements:
 
-Optional: EndearvourOs
 *  i3-wm, i3-gaps, and i3-blocks
 *  Font Awesome TTF Fonts
 *  Some apps used on i3config
