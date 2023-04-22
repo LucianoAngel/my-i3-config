@@ -1,17 +1,14 @@
-# my-i3-config
-# 2021 - made by https://github.com/LucianoAngel/
+# README
 
-Its my 2021 i3-wm config
+This repo contains the DotFiles of i3-wm, i3-gaps, and i3-blocks
 
-Requirements:
+##Requirements:
 
-1.- i3-gaps
-2.- Font Awesome Fonts
-3.- Bumbleebe Status (NavBar) + Python modules used on a /i3/config
-4.- Programs used on a /i3/config
-Aditional(unfoficial)
--On ArchLinux unstead "udiskctl (whitout gui)" be needed "gnome-disk" to mount disk aditional to linux, if you preffer a gui, and only needed configure one time
+Optional: EndearvourOs
+1.- i3-wm, i3-gaps, and i3-blocks
+2.- Font Awesome TTF Fonts
+3.- Some apps used on i3config
 
-I hope this config are usefull for you.
+## How to contribute with the project
 
-Thanks for waching.
+Clone and make a pull request
