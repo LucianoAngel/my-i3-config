@@ -1,11 +1,16 @@
 # README
 
+Repo based on the i3-wm-endearvouros config. see [i3-wm-endearvouros](https://github.com/endeavouros-team/endeavouros-i3wm-setup)
+
+For more compatibility first clone the i3-wm-endearvouros config, then use this configuration
+
 This repo contains the DotFiles of i3-wm, i3-gaps, and i3-blocks
 
 ## Functionality
 
 *  Compatibility with Rofi Launcher
 *  Compatible with Bluetooth and Wifi
+*  Compatible with Notifications
 *  Move workspaces between different displays
 *  Dinamic Wallpapers automatically
 *  Apps on specific workspaces automatically
